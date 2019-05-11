@@ -116,3 +116,51 @@ Many students choose to go abroad instead of studying in local universities, for
 people + (who/whom/that/ehose)
 
 thing + (which/that/whose)
+
+Pupils laek abilities to find suitable classes which can satisfied their needs most.
+
+People who live in multiculture societies are more likely to be open and cooprative.
+
+**open-minded adj.**
+**tend to 倾向于**
+
+Space research has brought sattlite-based services which are applied to daily life widely.
+
+**Notice：**
+ - 既有人又有物用that.
+ - 先行词有 all little few much none the first时用that
+ - 不定代词用that
+ - 介词后面只能用which/whom.前面的介词取决于其搭配的动词
+ - 插入语前面用which.
+
+**关系副词**
+ - When （on which）
+ - Where (in which)
+ - Why (for which)
+
+The another reason why art projects(programs) should obtain goverment's fund(grants) is that art can create jobs.
+
+**Notice**
+- 关系词要看其在从句中充当的成分
+
+//观察结果偏向使用完成式
+Network has brought many benifits to real life, two of which are worth to be noticed.
+
+**tangible 有形的 实际的**
+
+带逗号是解释，不带逗号是限定
+
+**postpond 滞后**
+
+WhThe government should encourage people to take public transport, which will relive the pressure on traffic **to a greate extend**.
+
+**in terms of**在。。。方面
+
+We should encourage young men to communicate with their peers, which can devlope their ability of communication, that will help them decline the dependence to their parents fundamentally and keep their mental status in health.
+
+**Notice：**
+- 了解要修饰的对象，再决定修饰词。
+
+Curiosity and imagination are important facts which can help to stimulate the discovery of new things and boost(advance) the development of science.
+
+People who are addicted to internet tend to be isolated or leek of ability to communicate, even in the status of depressed.
